@@ -27,6 +27,12 @@ https://coffeateam.github.io/coffea/index.html
 The other low pt lepton group's github (Dominic and Christian)
 https://github.com/therwig/ele-studies
 
+Intro to machine learning: 
+https://indico.cern.ch/event/917681/
+
+Great resource for xgboost:
+https://www.youtube.com/user/joshstarmer
+
 # A guide on computing
 
 Instructions on the conda environment that we are using: (FireHydrant) (See README.md for a quick guide on getting started)
